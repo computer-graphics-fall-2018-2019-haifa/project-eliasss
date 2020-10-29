@@ -1,11 +1,11 @@
 # Computer Graphics 203.3710, Winter 2018/2019
 ## Students Team data
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
+Name: 'Elias Marjieh'  
+Student Number: '333222'
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
+Name: 'Elias Marjieh2'  
+Student Number: '222333'
 
 ### Lecturer
 *Roi Poranne*
